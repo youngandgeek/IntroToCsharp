@@ -12,10 +12,6 @@
 //// writeline with plase holder syntax {0},{1} is a place holder for the inputed values
 Console.WriteLine("Hello,{0} {1}", firstName, secondName);
 **/
-
-////coffee shop program
-/***
- * int totalCost=0;
 int userChoice;
 String userDecission;
 
